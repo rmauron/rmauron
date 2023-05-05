@@ -1,7 +1,7 @@
 # About Me:
-🧠 Currently working with single-cell ATAC-seq data <br>
 💻 Bioinformatics <br>
-🌱 SciLifeLab
+🌱 SciLifeLab <br>
+🧠 Currently working with single-cell ATAC-seq data
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphael-mauron)
 <br>
