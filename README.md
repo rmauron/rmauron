@@ -1,5 +1,5 @@
 # About Me:
-💻 Bioinformatics <br>
+💻 Computational biology <br>
 🌱 SciLifeLab <br>
 🧠 Currently working with single-cell ATAC-seq data
 <br><br>
