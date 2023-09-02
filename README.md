@@ -1,7 +1,7 @@
 # About Me:
 💻 Computational biology <br>
 🌱 SciLifeLab <br>
-🧠 Currently working with single-cell ATAC-seq data
+Currently working on Human Development Cell Atlas
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphael-mauron)
 <br>
