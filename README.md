@@ -1,6 +1,6 @@
 # About Me:
 💻 Computational biology <br>
-🌱 SciLifeLab <br>
+🌱 SciLifeLab
 
 <br><br>
 
