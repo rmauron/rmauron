@@ -9,9 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=rmauron&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false) 
 ![](https://nirzak-streak-stats.vercel.app/?user=rmauron&theme=shadow_green&hide_border=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rmauron&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
-
 ![](https://github-contributor-stats.vercel.app/api?username=rmauron&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
